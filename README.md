@@ -7,7 +7,7 @@ Frontend Developer
 I am 18 years old and learning frontend programming
 
 * 🌍  I'm based in Viet Name
-* 🖥️  See my portfolio at [MyPortfolio](http://portfolio.lamtool.x10.mx/)
+* 🖥️  See my portfolio at [MyPortfolio](http://lamdayne.github.io/)
 * ✉️  You can contact me at [nlam32428@gmail.com](mailto:nlam32428@gmail.com)
 * 🧠  I'm learning Frontend Programming
 * ⚡  I do it for me and for myself
