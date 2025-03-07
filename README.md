@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Hoang Phuong Lam (James Nguyen)
 ==============================================================================================================================================================
 
-Frontend Developer
+... Developer
 ------------------
 
 I am 18 years old and learning frontend programming
