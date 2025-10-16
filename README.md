@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  ![Profile views](https://count.getloli.com/@:lamdayne?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto)
+  <img src="[https://profile-counter.glitch.me/lamdayne/count.svg?](https://count.getloli.com/@:lamdayne?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto)"  />
 </div>
 
 ###
